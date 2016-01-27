@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+float right
+]]></content>
+	<tabTrigger>fright</tabTrigger>
+	<scope>source.stylus</scope>
+	<description>Float right</description>
+</snippet>

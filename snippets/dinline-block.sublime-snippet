@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+display inline-block
+]]></content>
+	<tabTrigger>dinlineblock</tabTrigger>
+	<scope>source.stylus</scope>
+	<description>Display inline-block</description>
+</snippet>

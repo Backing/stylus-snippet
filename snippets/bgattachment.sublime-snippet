@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+background-attachment ${1:fixed}
+]]></content>
+	<tabTrigger>bgattachment</tabTrigger>
+	<scope>source.stylus</scope>
+	<description>Background attachment</description>
+</snippet>

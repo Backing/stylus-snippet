@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+background-image url('${1:img/}')
+]]></content>
+	<tabTrigger>bgimage</tabTrigger>
+	<scope>source.stylus</scope>
+	<description>Background Image</description>
+</snippet>

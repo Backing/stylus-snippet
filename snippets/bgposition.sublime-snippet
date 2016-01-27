@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+background-position ${1:100px 5px}
+]]></content>
+	<tabTrigger>bgposition</tabTrigger>
+	<scope>source.stylus</scope>
+	<description>Background position</description>
+</snippet>

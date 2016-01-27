@@ -1,0 +1,67 @@
+@import "nib"
+
+*
+	margin 0
+	padding 0
+
+SourceCodePro = 'Source Code Pro'
+OpenSans = 'Open Sans', sans-serif
+
+body
+	background-color white
+	font-family OpenSans
+	font-size 16px
+
+
+.Header
+	background-color #DEDEDE
+	box-shadow 0px 2px 5px #BEBEBE
+	padding 20px
+	&-title
+		color #424242
+		text-align center
+		
+.Container
+	padding 50px 0
+
+.Table
+	background-color #C8C8C8
+	border-left 1px solid #6C6C6C
+	border-right 1px solid #6C6C6C
+	border-top 1px solid #6C6C6C
+	display flex
+	margin 0 auto
+	width 90%
+	&-tab
+		border-right 1px solid #6C6C6C
+		text-align center
+		width 50%
+		&:last-child
+			border-right 1px solid transparent
+		&.header
+			background-color #E4FF00
+			border-bottom 1px solid #6C6C6C
+			padding 10px 0
+			color #414141
+		&.content
+			padding 5px 0
+
+@media screen and (min-width: 640px)
+	.Table
+		width 610px
+		
+@media screen and (min-width: 768px)
+	.Table
+		width 738px
+		
+@media screen and (min-width: 1024px)
+	.Table
+		width 994px
+		
+@media screen and (min-width: 1280px)
+	.Table
+		width 1250px
+		
+@media screen and (min-width: 1366px)
+	.Table
+		width 1336px

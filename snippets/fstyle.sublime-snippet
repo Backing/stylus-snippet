@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+font-style ${1:italic}
+]]></content>
+	<tabTrigger>fstyle</tabTrigger>
+	<scope>source.stylus</scope>
+	<description>Font style</description>
+</snippet>

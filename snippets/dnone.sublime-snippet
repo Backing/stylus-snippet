@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+display none
+]]></content>
+	<tabTrigger>dnone</tabTrigger>
+	<scope>source.stylus</scope>
+	<description>Display none</description>
+</snippet>

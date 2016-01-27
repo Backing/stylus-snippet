@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+font-size ${1:16px}
+]]></content>
+	<tabTrigger>fsize</tabTrigger>
+	<scope>source.stylus</scope>
+	<description>Font size</description>
+</snippet>

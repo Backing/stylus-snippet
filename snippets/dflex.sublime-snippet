@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+display flex
+]]></content>
+	<tabTrigger>dflex</tabTrigger>
+	<scope>source.stylus</scope>
+	<description>Display flex</description>
+</snippet>
